@@ -4,3 +4,4 @@ b = True
 b = 13
 c = "szöveg"
 d = "alma"
+f = madár
