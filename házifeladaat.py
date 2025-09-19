@@ -4,3 +4,4 @@
 # ajjaj, itt problémák lesznek .
 
 #konkatonálás, concat
+a = 12
